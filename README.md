@@ -7,7 +7,10 @@ b)    Vedtektene gjelder for alle organisasjonsledd organisert av Norsk Digital 
 c)    Norsk Digital Kultur er en frivillig og ikke-kommersiell organisasjon og er partipolitisk og religiøst uavhengig.
 
 ## § 1-2 Formål
-Norsk Digital Kultur er et forbund  for barne- og ungdomsorganisasjoner som organiserer digital kultur i Norge.
+Norsk Digital Kultur er et forbund for barne- og ungdomsorganisasjoner som organiserer digital kultur i Norge. Organisasjonen skal fremme den digitale kulturen ovenfor myndigheter og samfunnet forøvrig, og skape møteplasser for medlemsforeningene.
+
+Norsk Digital Kultur skal legge til rette for at ungdom kan skape og utvikle møteplasser for digital kultur, og bidra til å styrke samarbeidet mellom medlemsforeningene
+
 ## § 1-3 Foreningers rett
 Medlemsforeningene er suverene og uavhengige deler av Norsk Digital Kultur. Norsk Digital Kulturs sentrale organer kan ikke avsette eller velge tillitsvalgte i medlemsforeningene, og kan heller ikke overprøve avgjørelser fattet av deres egne valgte organer.
 
